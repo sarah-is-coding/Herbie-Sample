@@ -44,3 +44,6 @@ Edge cases:
 
 I implemented an initial working solution independently, with light Copilot usage for basic syntax and iteration. I then used ChatGPT as a design review and refactoring aid to sanity check tradeoffs, simplify logic, and improve readability. In particular, it helped me reconsider when derived values (such as the primary partner) should be computed. I also used it to help polish the README.
 All final code was reviewed, understood, and edited by me, and I'm comfortable explaining any part of it.
+
+
+https://gist.github.com/btmills/4ca90f13689e28926f6e78df06489c00
